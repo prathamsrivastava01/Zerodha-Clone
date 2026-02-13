@@ -3,22 +3,15 @@ A full-stack trading platform inspired by Zerodha, replicating core features lik
 Tech Stack:
 
 Frontend: React.js | CSS | Bootstrap | React Router
-
 Dashboard: React.js | Context API | Chart.js
-
 Backend: Node.js | Express.js | MongoDB | Mongoose
-
 
 Project Structure:
 
 Zerodha-Clone:
-
 ├── backend/      → Express server & APIs
-
 ├── frontend/     → Landing pages (React)
-
 ├── dashboard/    → Trading dashboard UI
-
 └── .gitignore
 
 Key Features:
@@ -34,9 +27,7 @@ Key Features:
 Setup:
 
 cd backend && npm install && npm start
-
 cd frontend && npm install && npm start
-
 cd dashboard && npm install && npm start
 
 
