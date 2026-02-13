@@ -1,6 +1,7 @@
-🚀 Zerodha Clone — Full-Stack Trading Platform (MERN)
+**🚀 Zerodha Clone — Full-Stack Trading Platform (MERN)**
 
 A full-stack trading platform inspired by Zerodha, replicating core features like holdings, positions, orders, dashboard analytics, and a responsive UI.
+
 
 **Tech Stack:**
 
@@ -9,6 +10,7 @@ Frontend: React.js | CSS | Bootstrap | React Router.
 Dashboard: React.js | Context API | Chart.js.
 
 Backend: Node.js | Express.js | MongoDB | Mongoose.
+
 
 **Key Features:**
 
@@ -26,6 +28,7 @@ Backend: Node.js | Express.js | MongoDB | Mongoose.
 
 🗄 MongoDB Database Models.
 
+
 **Setup:**
 
 cd backend && npm install && npm start
@@ -33,6 +36,7 @@ cd backend && npm install && npm start
 cd frontend && npm install && npm start
 
 cd dashboard && npm install && npm start
+
 
 **Project Structure:**
 
@@ -45,6 +49,7 @@ Zerodha-Clone/
 ├── dashboard/    → Trading dashboard UI
 
 └── .gitignore
+
 
 **Future Improvements:**
 
