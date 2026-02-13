@@ -7,11 +7,14 @@ Backend: Node.js | Express.js | MongoDB | Mongoose
 
 Project Structure:
 
-Zerodha-Clone/
-│
+Zerodha-Clone:
+
 ├── backend/      → Express server & APIs
+
 ├── frontend/     → Landing pages (React)
+
 ├── dashboard/    → Trading dashboard UI
+
 └── .gitignore
 
 
