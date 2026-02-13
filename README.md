@@ -2,14 +2,14 @@
 
 A full-stack trading platform inspired by Zerodha, replicating core features like holdings, positions, orders, dashboard analytics, and a responsive UI.
 
-#H1 -Tech Stack:
-**Frontend:** React.js | CSS | Bootstrap | React Router.
+**Tech Stack:**
+Frontend: React.js | CSS | Bootstrap | React Router.
 
 Dashboard: React.js | Context API | Chart.js.
 
 Backend: Node.js | Express.js | MongoDB | Mongoose.
 
-Key Features:
+**Key Features:**
 
 📊 Interactive Trading Dashboard.
 
@@ -25,8 +25,7 @@ Key Features:
 
 🗄 MongoDB Database Models.
 
-
-Setup:
+**Setup:**
 
 cd backend && npm install && npm start
 
@@ -34,6 +33,7 @@ cd frontend && npm install && npm start
 
 cd dashboard && npm install && npm start
 
+**Project Structure:**
 Zerodha-Clone/
 
 ├── backend/      → Express server & APIs
@@ -44,8 +44,7 @@ Zerodha-Clone/
 
 └── .gitignore
 
-
-Future Improvements:
+**Future Improvements:**
 
 🔐 Authentication with JWT
 📈 Real-time stock price integration
