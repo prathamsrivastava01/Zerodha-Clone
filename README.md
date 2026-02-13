@@ -3,6 +3,7 @@
 A full-stack trading platform inspired by Zerodha, replicating core features like holdings, positions, orders, dashboard analytics, and a responsive UI.
 
 **Tech Stack:**
+
 Frontend: React.js | CSS | Bootstrap | React Router.
 
 Dashboard: React.js | Context API | Chart.js.
@@ -34,6 +35,7 @@ cd frontend && npm install && npm start
 cd dashboard && npm install && npm start
 
 **Project Structure:**
+
 Zerodha-Clone/
 
 ├── backend/      → Express server & APIs
@@ -47,7 +49,11 @@ Zerodha-Clone/
 **Future Improvements:**
 
 🔐 Authentication with JWT
+
 📈 Real-time stock price integration
+
 💳 Payment gateway integration
+
 🌐 Deployment on Render / Vercel
+
 Looking for: Opportunities to apply my MERN stack skills in Full-Stack or Frontend Development roles.
