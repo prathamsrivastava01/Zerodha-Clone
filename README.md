@@ -1,23 +1,11 @@
-A full-stack trading platform clone inspired by Zerodha, built using the MERN stack.
-This project replicates core features like holdings, positions, orders, dashboard analytics, and responsive UI.
+A full-stack trading platform inspired by Zerodha, replicating core features like holdings, positions, orders, dashboard analytics, and a responsive UI.
 
-🚀 Tech Stack
+Tech Stack:
+Frontend: React.js | CSS | Bootstrap | React Router
+Dashboard: React.js | Context API | Chart.js
+Backend: Node.js | Express.js | MongoDB | Mongoose
 
-Frontend:
-React.js
-CSS
-Bootstrap
-React Router
-Dashboard:
-React.js
-Context API
-Chart.js
-
-Backend:
-Node.js
-Express.js
-MongoDB
-Mongoose
+Project Structure:
 
 Zerodha-Clone/
 │
@@ -26,31 +14,38 @@ Zerodha-Clone/
 ├── dashboard/    → Trading dashboard UI
 └── .gitignore
 
-✨ Features
+
+Key Features:
 
 📊 Interactive Trading Dashboard
+
 📈 Holdings & Positions tracking
+
 🛒 Buy / Sell window
+
 📦 Orders Management
+
 📱 Responsive UI
+
 🔗 REST API integration
+
 🗄 MongoDB Database Models
 
-cd backend
-npm install
-npm start
+Setup:
 
-cd frontend
-npm install
-npm start
+cd backend && npm install && npm start
+cd frontend && npm install && npm start
+cd dashboard && npm install && npm start
 
-cd dashboard
-npm install
-npm start
 
-🌟 Future Improvements
+Future Improvements:
 
-Authentication (JWT)
-Real-time stock price integration
-Payment gateway integration
-Deployment on Render / Vercel
+🔐 Authentication with JWT
+
+📈 Real-time stock price integration
+
+💳 Payment gateway integration
+
+🌐 Deployment on Render / Vercel
+
+Looking for: Opportunities to apply my MERN stack skills in Full-Stack or Frontend Development roles.
