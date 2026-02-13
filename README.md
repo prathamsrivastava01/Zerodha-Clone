@@ -2,8 +2,8 @@
 
 A full-stack trading platform inspired by Zerodha, replicating core features like holdings, positions, orders, dashboard analytics, and a responsive UI.
 
-Tech Stack:
-Frontend: React.js | CSS | Bootstrap | React Router.
+#H1 -Tech Stack:
+**Frontend:** React.js | CSS | Bootstrap | React Router.
 
 Dashboard: React.js | Context API | Chart.js.
 
